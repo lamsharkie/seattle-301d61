@@ -203,4 +203,4 @@ console.log(joe.scopeArrow());
 // 2. What is "this" when joe.scopeArrow() is invoked?
 //    Joe
 // 3. Explain why "this" is different when an arrow function is used.
-//    This refers to the "THIS" of the parent container... in that instance, it is not referring to an instance of Student.
+//    This refers to the "THIS" of the parent container...in that instance, it is not referring to an instance of Student.
